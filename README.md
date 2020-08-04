@@ -1,5 +1,5 @@
-# Hi, Welcome to My GitHub Profile ! 👋🏻
+# Hi, Welcome to My GitHub Profile ! 
 
 
-- 🔭 I’m currently working on the [**Vehicle Routing Problem**](https://github.com/armandwayoff/Vehicle-Routing-Problem)
-- 🌱 I’m currently learning **Python** and **R**
+- I’m currently working on the [**Vehicle Routing Problem**](https://github.com/armandwayoff/Vehicle-Routing-Problem)
+- I’m currently learning **Python** and **R**
